@@ -22,5 +22,14 @@ spring:
             descriptor:
               sql:
                 BasicBinder: TRACE
+  main:
+    allow-bean-definition-overriding: true
+
+elasticsearch:
+  host: 127.0.0.1
+  port: 9300
+  cluster_name: docker-cluster
+
+
 
 

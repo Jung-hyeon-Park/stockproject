@@ -1,10 +1,10 @@
-package com.parkjh.stockproject;
+package com.parkjh.covidproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StockprojectApplicationTests {
+class covidprojectApplicationTests {
 
     @Test
     void contextLoads() {
